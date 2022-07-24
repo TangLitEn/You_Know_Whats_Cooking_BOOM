@@ -1,5 +1,5 @@
 # YouKnowWhatsCookingBOOM
-I repo to keep all the successful submission in coding competition, WHY? Cause I'm Lovin it🥰~ 
+A repo to keep all the successful submission in coding competition, WHY? Cause I'm Lovin it🥰~ 
 
 Not a computer science student, but love to code during free time🆓
 
