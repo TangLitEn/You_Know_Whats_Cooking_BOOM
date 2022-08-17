@@ -1,7 +1,6 @@
 #include <bits/stdc++.h>
 #define ll long long 
 #define db double
-
 using namespace std;
 
 void printArray (ll* A,ll n);
