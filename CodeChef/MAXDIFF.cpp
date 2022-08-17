@@ -1,5 +1,3 @@
-//not yet completed
-
 #include <bits/stdc++.h>
 #define ll long long 
 #define db double
